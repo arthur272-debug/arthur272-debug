@@ -5,7 +5,7 @@
 - 😄 Pronouns: ele/dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur272-debug&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur272-debug&layout=compact&theme=merko&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur272-debug&layout=compact&theme=merko&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
 <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
