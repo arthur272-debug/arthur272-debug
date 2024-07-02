@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Arthur André 😃
 
 - 🔭 Sou estudante de Sistemas de Informação na UNIRIO(Universidade Federal do Estado do Rio de Janeiro);
-- 🌱 Estudando Python;
+- 🌱 Estudando Python e aprofundando conhecimentos em JavaScript;
 - 😄 Pronouns: ele/dele
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=arthur272-debug&show_icons=true&theme=merko)
