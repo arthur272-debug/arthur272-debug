@@ -56,7 +56,7 @@ Projeto colaborativo desenvolvido durante a graduação, voltado para usuários 
 - Desenvolvimento de funcionalidades do frontend utilizando React.
 - Elaboração de diagramas técnicos.
 - Desenvolvimento da documentação técnica.
-- 
+
 ## 💼 Experiência
 
 Mais de 4 anos de experiência profissional em Tecnologia da Informação, com atuação em suporte técnico, infraestrutura, servidores, redes e ambientes corporativos.
