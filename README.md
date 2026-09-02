@@ -1,27 +1,46 @@
-### Olá! Eu sou o Arthur André 😃
+# Olá! Eu sou Arthur André 👋
 
-- 🔭 Sou estudante de Sistemas de Informação na UNIRIO(Universidade Federal do Estado do Rio de Janeiro);
-- 🌱 Estudando Python e aprofundando conhecimentos em JavaScript;
-- 😄 Pronouns: ele/dele
+🎓 Bacharel em Sistemas de Informação  
+💻 Desenvolvedor Full Stack Jr  
+🚀 Interessado em desenvolvimento web, backend, frontend e APIs
 
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=arthur272-debug&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arthur272-debug&layout=compact&theme=merko&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
+## 🛠️ Tecnologias
 
-<div>
-<img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
-</div>                   
+**Linguagens**
+- Java
+- Python
+- JavaScript
+- PHP
 
-##
+**Frontend**
+- HTML
+- CSS
+- React
 
-<div>
-<a href = "mailto:arthurdasilvaandre@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/arthur-andre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+**Banco de Dados**
+- SQL
+
+**Ferramentas**
+- Git
+- GitHub
+- Docker
+
+## 📌 Projetos
+
+### 🚧 Projeto autoral
+Em desenvolvimento.
+
+> Em breve, este espaço apresentará meu principal projeto pessoal, desenvolvido com foco em desenvolvimento Full Stack.
+
+### 📚 Projetos acadêmicos
+Durante minha formação em Sistemas de Informação, participei de projetos colaborativos envolvendo desenvolvimento web, frontend, backend, testes, bancos de dados e documentação técnica.
+
+## 💼 Experiência
+
+Mais de 4 anos de experiência profissional em Tecnologia da Informação, com atuação em suporte técnico, infraestrutura, servidores, redes e ambientes corporativos.
+
+Essa experiência contribuiu para meu desenvolvimento de habilidades como raciocínio analítico, resolução de problemas e visão sistêmica.
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/arthur-andre)
