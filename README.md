@@ -1,6 +1,6 @@
 # Olá! Eu sou Arthur André 👋
 
-🎓 Bacharel em Sistemas de Informação  
+🎓 Bacharel em Sistemas de Informação - Universidade Federal do Estado do Rio de Janeiro (UNIRIO)
 💻 Desenvolvedor Full Stack Jr  
 🚀 Interessado em desenvolvimento web, backend, frontend e APIs
 
