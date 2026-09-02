@@ -65,4 +65,5 @@ Essa experiência contribuiu para meu desenvolvimento de habilidades como racioc
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/arthur-andre)
+- 📧 Email: arthurdasilvaandre@gmail.com
+- 💼 LinkedIn: [Arthur André](https://www.linkedin.com/in/arthur-andre)
