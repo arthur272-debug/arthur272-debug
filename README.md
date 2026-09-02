@@ -10,7 +10,6 @@
 - Java
 - Python
 - JavaScript
-- PHP
 
 **Frontend**
 - HTML
